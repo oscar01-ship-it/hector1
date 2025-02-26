@@ -1,1 +1,67 @@
-# hector1
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portafolio - Héctor José Vicente Marmolejos</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f4f4f4; }
+        .container { max-width: 900px; margin: 20px auto; padding: 20px; background: #fff; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); }
+        h1, h2 { color: #333; }
+        .section { margin-bottom: 20px; }
+        .contact a { text-decoration: none; color: #007BFF; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Héctor José Vicente Marmolejos</h1>
+            <p>Profesional con experiencia en [tu especialidad]. Apasionado por [tus intereses principales].</p>
+        </header>
+        
+        <section class="section about">
+            <h2>Sobre Mí</h2>
+            <p>Soy un profesional dedicado a [tu campo de trabajo]. Con experiencia en [áreas clave], me especializo en [habilidades principales].</p>
+        </section>
+        
+        <section class="section experience">
+            <h2>Experiencia Profesional</h2>
+            <ul>
+                <li><strong>[Cargo]</strong> - [Empresa] (Año - Año)</li>
+                <li><strong>[Cargo]</strong> - [Empresa] (Año - Año)</li>
+            </ul>
+        </section>
+        
+        <section class="section projects">
+            <h2>Proyectos Destacados</h2>
+            <ul>
+                <li><strong>[Nombre del Proyecto]</strong> - Breve descripción.</li>
+                <li><strong>[Nombre del Proyecto]</strong> - Breve descripción.</li>
+            </ul>
+        </section>
+        
+        <section class="section education">
+            <h2>Educación y Certificaciones</h2>
+            <ul>
+                <li>[Título] - [Institución] (Año)</li>
+                <li>[Certificación] - [Entidad] (Año)</li>
+            </ul>
+        </section>
+        
+        <section class="section skills">
+            <h2>Habilidades</h2>
+            <ul>
+                <li>[Habilidad 1]</li>
+                <li>[Habilidad 2]</li>
+                <li>[Habilidad 3]</li>
+            </ul>
+        </section>
+        
+        <section class="section contact">
+            <h2>Contacto</h2>
+            <p>Email: <a href="mailto:tuemail@example.com">tuemail@example.com</a></p>
+            <p>LinkedIn: <a href="#">Tu perfil</a></p>
+        </section>
+    </div>
+</body>
+</html>
