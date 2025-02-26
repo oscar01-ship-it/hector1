@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+ c<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -16,50 +16,34 @@
     <div class="container">
         <header>
             <h1>Héctor José Vicente Marmolejos</h1>
-            <p>Profesional con experiencia en [tu especialidad]. Apasionado por [tus intereses principales].</p>
+            <p>actualmente trabajo en una clinica [camillero/avanzada]. Apasionado por [los video juegos y deportes].</p>
         </header>
         
         <section class="section about">
             <h2>Sobre Mí</h2>
-            <p>Soy un profesional dedicado a [tu campo de trabajo]. Con experiencia en [áreas clave], me especializo en [habilidades principales].</p>
+            <p>actualmente trabajando en una clinica [camillero]. Con experiencia en [servicio al cliente, camillero lider].</p>
         </section>
         
         <section class="section experience">
             <h2>Experiencia Profesional</h2>
             <ul>
-                <li><strong>[Cargo]</strong> - [Empresa] (Año - Año)</li>
-                <li><strong>[Cargo]</strong> - [Empresa] (Año - Año)</li>
+                <li><strong>[camillero]</strong> - [centro medico divina misericordia] (2023 - actual)</li>
+                <li><strong>[cocinero y servico al cliente]</strong> - [De carlitos cafeteria ] (2022 - 2022)</li>
             </ul>
         </section>
-        
-        <section class="section projects">
-            <h2>Proyectos Destacados</h2>
-            <ul>
-                <li><strong>[Nombre del Proyecto]</strong> - Breve descripción.</li>
-                <li><strong>[Nombre del Proyecto]</strong> - Breve descripción.</li>
-            </ul>
-        </section>
+      
         
         <section class="section education">
             <h2>Educación y Certificaciones</h2>
             <ul>
-                <li>[Título] - [Institución] (Año)</li>
-                <li>[Certificación] - [Entidad] (Año)</li>
+                <li>[humanidades y lenguas ] - [colegio adonai] (2022)</li>
             </ul>
         </section>
         
-        <section class="section skills">
-            <h2>Habilidades</h2>
-            <ul>
-                <li>[Habilidad 1]</li>
-                <li>[Habilidad 2]</li>
-                <li>[Habilidad 3]</li>
-            </ul>
-        </section>
         
         <section class="section contact">
             <h2>Contacto</h2>
-            <p>Email: <a href="mailto:tuemail@example.com">tuemail@example.com</a></p>
+            <p>Email: <a href="mailto:tuemail@example.com">ovicente579@gmail.com</a></p>
             <p>LinkedIn: <a href="#">Tu perfil</a></p>
         </section>
     </div>
